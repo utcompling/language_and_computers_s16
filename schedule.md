@@ -13,7 +13,6 @@ date:   2016-01-17 14:30:00
 - **DBM** refers to [Dickinson, Brew and Meurers](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002779.html).
 - Readings are given in short format, e.g. DBM *1:1-12* means "DBM Chapter 1, pages 1-12, to be read by class on the date it appears.
 
-
 Week	|  Date	| Topic	| Reading | Assignment
  ---: | ---: | --- | --- | ---
 1  | 1/19 | Course Introduction |  |
