@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            LIN313
+tagline:          'Language and Computers'
+description:      'Course at the University of Texas at Austin taught by <a href="http://www.jasonbaldridge.com">Jason Baldridge</a>.'
+url:              http://utcompling.github.io/language_and_computers_s16/
+baseurl:          /
+
+author:
+  name:           'Jason Baldridge'
+  url:            http://www.jasonbaldridge.com
+
+paginate:         5
+
+github:
+  repo:           https://github.com/utcompling/language_and_computers_s16
