@@ -9,6 +9,10 @@ date:   2016-01-17 14:30:00
 
 **Semester**: Spring 2016
 
+**Time**: TTH 930am-1100am
+
+**Location**: [CLA](https://www.utexas.edu/maps/main/buildings/cla.html) 0.104
+
 **Website**: http://utcompling.github.io/language_and_computers_s16
   
 ## Contact Information
