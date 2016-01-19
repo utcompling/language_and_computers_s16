@@ -9,6 +9,8 @@ date:   2016-01-17 14:30:00
 
 **Semester**: Spring 2016
 
+**Website**: http://utcompling.github.io/language_and_computers_s16
+  
 ## Contact Information
 
 | Instructor    | Information  |
@@ -17,13 +19,6 @@ date:   2016-01-17 14:30:00
 *office hours* | TTh 11-12:30
 *office* | CLA 4.738
 *email* | jbaldrid@mail.utexas.edu
-
-| TA | Information  |
-| ---: | :--- |
-*name* | Hammal Al Bulushi
-*office hours* | TBA
-*office* | TBA
-*email* | hammal@utexas.edu
 
 ## Prerequisites
 
@@ -37,6 +32,8 @@ The course book is:
 
 - *Dickinson, M., C. Brew, and D. Meurers*. [Language and Computers](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002779.html). 
 
+Additional readings are provided via hyperlinks on the [schedule]({{site.baseurl}}/schedule) page.
+  
 ## Exams and Assignments
 
 There will be one mid-term exam and one final exam. The midterm will consist of the material covered in the first half of the class, and the final will be comprehensive, but with a greater emphasis on the contents covered in the second half of the class.
@@ -109,12 +106,33 @@ The greater the advance notice of a need for an extension, the greater the likel
 
 You are encouraged to discuss assignments with classmates. But all written work must be your own. If in doubt, ask the instructor.
 
-Students who violate University rules on academic dishonesty are subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all students, and the integrity of the University, policies on academic dishonesty will be strictly enforced. For further information please visit [the Student Judicial Services Web site](http://deanofstudents.utexas.edu/sjs).
-
+Students who violate University rules on academic dishonesty are subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from the University. Since such dishonesty harms the individual, all students, and the integrity of the University, policies on academic dishonesty will be strictly enforced. For further information please visit [the Student Judicial Services Web site](http://deanofstudents.utexas.edu/sjs). Also, see the [University Honor Code](http://catalog.utexas.edu/general-information/the-university).
+  
 ## Notice about students with disabilities
 
-Students with disabilities may request appropriate academic accommodations from the [Division of Diversity and Community Engagement, Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd) at 471-6259 (voice) or 232-2937 (video phone).
+Students with disabilities may request appropriate academic accommodations from the [Division of Diversity and Community Engagement, Services for Students with Disabilities](http://ddce.utexas.edu/disability/) at 471-6259.
 
 ## Notice about missed work due to religious holy days
 
 By UT Austin policy, you must notify me of your pending absence at least fourteen days prior to the date of observance of a religious holy day. If you must miss a class, an examination, a work assignment, or a project in order to observe a religious holy day, I will give you an opportunity to complete the missed work within a reasonable time after the absence.
+
+## Emergency evacuation
+
+Please follow these recommendations regarding emergency evacuation (provided by the [Office Campus Safety and Security](http://www.utexas.edu/safety), 512-471-5767).
+
+- Occupants of buildings on The University of Texas at Austin campus are
+required to evacuate buildings when a fire alarm is activated. Alarm
+activation or announcement requires exiting and assembling outside.
+- Familiarize yourself with all exit doors ofeach classroom and building you
+may occupy. Remember that the nearest exit door may not be the one you
+used when entering the building.
+- Students requiring assistance in evacuation shall inform their instructor in writing during the first week of class.
+- In the event of an evacuation, follow the instruction of faculty or class
+instructors.
+- Do not re-enter a building unless given instructions by the following: Austin Fire Department, The University of Texas at Austin Police Department, or
+Fire Prevention Services office.
+- Behavior Concerns Advice Line (BCAL): 512-232-5050
+- Link to information regarding emergency evacuation routes and emergency
+procedures can be found at: www.utexas.edu/emergency 
+  
+  
