@@ -16,7 +16,7 @@ date:   2016-01-17 14:30:00
 Week	|  Date	| Topic	| Reading | Assignment
  ---: | ---: | --- | --- | ---
 1  | 1/19 | [Course Introduction]({{site.baseurl}}/public/slides/LNC-intro.pdf) |  |
-   | 1/21 | Text Encoding |  DBM *1:1-12* |
+   | 1/21 | [Text Encoding]({{site.baseurl}}/public/slides/DBM-Text-Encoding.pdf) |  DBM *1:1-12* |
 2  | 1/26 |               |  DBM *1:12-17* |
    | 1/28 | Forensic Linguistics  |   |
 3  | 2/2  |   |   | HW1: Encoding Language
