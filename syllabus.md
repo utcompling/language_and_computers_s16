@@ -5,7 +5,7 @@ excerpt: "Syllabus for Spring 2016 LIN 313 - Language and Computers"
 date:   2016-01-17 14:30:00
 ---
 
-**Course**: LIN313, Language and Computers, 40750
+**Course**: LIN313, Language and Computers, 40120
 
 **Semester**: Spring 2016
 
