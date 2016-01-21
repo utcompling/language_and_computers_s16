@@ -10,6 +10,8 @@
     </div>
 
     <nav class="sidebar-nav">
+       <b>Pages</b><br>
+
       <a href="{{ site.baseurl }}/index.html">Home</a>
 
       {% comment %}
@@ -25,6 +27,14 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: homework` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <br><b>Homeworks</b><br>
+      <a href="{{ site.baseurl }}/hw1_text_encoding">HW1: Text Encoding</a>
 
     </nav>
 
