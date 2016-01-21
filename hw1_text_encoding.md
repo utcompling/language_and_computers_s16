@@ -5,6 +5,11 @@ excerpt: "Homework 1: Text Encoding"
 date:   2016-01-21 13:15:00
 ---
 
+# Homework 1: Text Encoding
+
+**Due**: February 2, 2016
+
+  
 ### Problem 1 (20 points)
 
 Do exercise 1 from chapter 1 (Encoding Language) of Dickinson, Brew and 
