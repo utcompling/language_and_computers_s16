@@ -11,3 +11,29 @@ date:   2016-01-18 23:30:00
 - Check out the webpage for [the course on lego robots](http://www.coli.uni-saarland.de/courses/lego-04/) at Saarland University. See videos of [the lego robot bartender](http://www.coli.uni-saarland.de/courses/lego-04/page.php?id=barkeeper) we saw in class.
 - Create fun (though mostly useless) word clouds with [Wordle](http://www.wordle.net/).
 
+## Text and Speech Encoding
+
+
+### Writing Systems
+
+- Browse the world of writing systems at [Omniglot](http://www.omniglot.com/).
+- Get to know the [International Phonetic Alphabet](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm).
+- Language Log explains [what is great about Hangul](http://itre.cis.upenn.edu/~myl/languagelog/archives/002529.html).
+- Read about [the Tengwar writing system Tolkein devised for languages of Middle Earth](http://en.wikipedia.org/wiki/Tengwar).
+- Check out the [Hanzi Smatter blog](http://hanzismatter.com/) to see why you should know your Chinese before getting tattoos with Chinese characters.
+
+### Speech
+
+- Text-to-speech from [IBM](http://www.research.ibm.com/tts/).
+- Hear the [Radiolab](http://www.wnyc.org/shows/radiolab/) [episode about music and language](http://www.wnyc.org/shows/radiolab/episodes/2006/04/21).
+- Check out [a tutorial on speech](http://web.archive.org/web/20061016180716/www.ling.lu.se/research/speechtutorial/tutorial.html).
+- Aphex Twin likes to embed images in some of his songs, and create sound via those images. look for the face in [the spectrogram for "Equation"](https://www.youtube.com/watch?v=M9xMuPWAZW8), starting at 5:25.
+- Read or listen to the [Skeptoid](http://skeptoid.com/) [episode on reverse speech and sound pareidolia](http://skeptoid.com/episodes/4105#) (Also, check out visual pareidolia with [seeing faces in all sorts of places](http://facesinplaces.blogspot.com/).)
+- The one and only [Benny Lava](https://www.youtube.com/watch?v=sdyC1BrQd6g).
+
+## Forensic linguistics
+
+- Geoff Nunberg's [commentary about counting "I"'s in politicians' speeches](http://people.ischool.berkeley.edu/~nunberg/countingwords.html).
+- Check out a basic [k-means demo](http://util.io/k-means).
+- Try out the [Google n-gram visualizer](https://books.google.com/ngrams/) for yourself.
+  
