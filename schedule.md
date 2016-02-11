@@ -21,7 +21,7 @@ Week	|  Date	| Topic	| Reading | Assignment
    | 1/28 | [Forensic Linguistics]({{site.baseurl}}/public/slides/LNC-ForensicLinguistics.pdf)  |   |
 3  | 2/2  |   |   | [HW1: Encoding Language]({{ site.baseurl }}/hw1_text_encoding)
    | 2/4  |    | 
-4  | 2/9  | Document Classification | DBM *5:127-151* 
+4  | 2/9  | [Document Classification]({{site.baseurl}}/public/slides/LNC-DocClassify.pdf) | DBM *5:127-151* 
    | 2/11 |    | [Evaluating HowOldNet](https://www.peoplepattern.com/machine-predictions-wild-howoldnet-might-much-better-social-media-lead-believe/)
 5  | 2/16 |    | | [HW2: Forensic Linguistics]({{ site.baseurl }}/hw2_forensic_linguistics)
    | 2/18 | Spelling Correction  | DBM *2:33-49*
