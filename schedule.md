@@ -26,7 +26,7 @@ Week	|  Date	| Topic	| Reading | Assignment
 5  | 2/16 |    | [Evaluating HowOldNet](https://www.peoplepattern.com/machine-predictions-wild-howoldnet-might-much-better-social-media-lead-believe/) | [HW2: Forensic Linguistics]({{ site.baseurl }}/hw2_forensic_linguistics)
    | 2/18 | Spelling Correction  | DBM *2:33-49*
 6  | 2/23 |    | 
-   | 2/25 |  |  | HW3: Document Classification
+   | 2/25 |  |  | [HW3: Document Classification]({{ site.baseurl }}/hw3_classification)
 7  | 3/1  | Midterm Exam Review; Cryptography   | 
    | 3/3  | Midterm Exam | 
 8  | 3/8  | Cryptography (cont'd) | 
