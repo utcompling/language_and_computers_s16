@@ -24,7 +24,7 @@ Week	|  Date	| Topic	| Reading | Assignment
 4  | 2/9  | [Document Classification]({{site.baseurl}}/public/slides/LNC-DocClassify.pdf) | DBM *5:127-151* 
    | 2/11 |    | |
 5  | 2/16 |    | [Evaluating HowOldNet](https://www.peoplepattern.com/machine-predictions-wild-howoldnet-might-much-better-social-media-lead-believe/) | [HW2: Forensic Linguistics]({{ site.baseurl }}/hw2_forensic_linguistics)
-   | 2/18 | Spelling Correction  | DBM *2:33-49*
+   | 2/18 | Spelling Correction ([Dickinson's Writer's aid slides]({{site.baseurl}}/public/slides/dickinson_writers_aids.pdf); [My supplementary slides]({{site.baseurl}}/public/slides/LNC-Spelling.pdf))  | DBM *2:33-49*
 6  | 2/23 |    | 
    | 2/25 |  |  | [HW3: Document Classification]({{ site.baseurl }}/hw3_classification)
 7  | 3/1  | Midterm Exam Review; Cryptography   | 
