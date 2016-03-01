@@ -26,15 +26,15 @@ Week	|  Date	| Topic	| Reading | Assignment
 5  | 2/16 |    | [Evaluating HowOldNet](https://www.peoplepattern.com/machine-predictions-wild-howoldnet-might-much-better-social-media-lead-believe/) | [HW2: Forensic Linguistics]({{ site.baseurl }}/hw2_forensic_linguistics)
    | 2/18 | Spelling Correction ([Dickinson's Writer's aid slides]({{site.baseurl}}/public/slides/dickinson_writers_aids.pdf); [My supplementary slides]({{site.baseurl}}/public/slides/LNC-Spelling.pdf))  | DBM *2:33-49*
 6  | 2/23 |    | 
-   | 2/25 |  |  | [HW3: Document Classification]({{ site.baseurl }}/hw3_classification)
-7  | 3/1  | Midterm Exam Review; Cryptography   | 
+   | 2/25 | Guest lecture: [Katrin Erk](http://www.katrinerk.com) |  | [HW3: Document Classification]({{ site.baseurl }}/hw3_classification)
+7  | 3/1  | Midterm Exam Review   | 
    | 3/3  | Midterm Exam | 
-8  | 3/8  | Cryptography (cont'd) | 
+8  | 3/8  | Cryptography | 
    | 3/10 |    | 
 Spring Break   | 3/15 | *****   | ***** | *****
    | 3/17 | *****   | ***** | *****
-9  | 3/22 | Machine Translation | DBM *7:181-194* | HW4: Spelling correction
-   | 3/24 |    | DBM *7:194-209* | 
+9  | 3/22 | Machine Translation | DBM *7:181-194* | 
+   | 3/24 |    | DBM *7:194-209* | [HW4: Spelling correction]({{ site.baseurl }}/hw4_spelling_correction)
 10 | 3/29 |    | 
    | 3/31 | Grammars | DBM *2:49-65*
 11 | 4/5  |    | | HW5: Cryptography
