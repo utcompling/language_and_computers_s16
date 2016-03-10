@@ -29,7 +29,7 @@ Week	|  Date	| Topic	| Reading | Assignment
    | 2/25 | Guest lecture: [Katrin Erk](http://www.katrinerk.com) |  | [HW3: Document Classification]({{ site.baseurl }}/hw3_classification)
 7  | 3/1  | Midterm Exam Review   | 
    | 3/3  | Midterm Exam | 
-8  | 3/8  | Cryptography | 
+8  | 3/8  | [Cryptography]({{site.baseurl}}/public/slides/LNC-Cryptography.pdf) | 
    | 3/10 |    | 
 Spring Break   | 3/15 | *****   | ***** | *****
    | 3/17 | *****   | ***** | *****
