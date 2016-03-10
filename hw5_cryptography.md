@@ -122,7 +122,7 @@ Here it is ordered by frequency:
 ![Ranked cipher frequencies](ranked_cipher_freq_distribution.png)  
 
   
-(a) (20 points) Decode the first two lines of the cipher text. Look at the relative frequencies of letters in the English language provided in Wikipedia. Compare the relative frequency distribution given above to the distribution given in Wikipedia, using it to generate hypotheses about which ciphertext characters might correspond to which plaintext characters. Test those hypotheses on small segments of the ciphertext to see if they make sense; then using the process of elimination and some educated guesses based on the words you are starting to see appear, determine the rest of the key and decode the message. Write down the decoded plaintext for the first two lines of the cipher text.
+(a) (20 points) Decode the first two lines of the cipher text. Look at [the relative frequencies of letters in the English language provided in Wikipedia](http://en.wikipedia.org/wiki/Letter_frequency#Relative_frequencies_of_letters_in_the_English_language). Compare the relative frequency distribution given above to the distribution given in Wikipedia, using it to generate hypotheses about which ciphertext characters might correspond to which plaintext characters. Test those hypotheses on small segments of the ciphertext to see if they make sense; then using the process of elimination and some educated guesses based on the words you are starting to see appear, determine the rest of the key and decode the message. Write down the decoded plaintext for the first two lines of the cipher text.
 
 **TIP**: You should put the cipher text into an editor like Microsoft Word or Google Docs and use Find and Replace as you test different guesses. It will be especially helpful if you can replace the capital letters of the cipher with lowercase plain text characters.
 
@@ -156,5 +156,5 @@ Note: there are tools on the Internet for encoding and decoding with the Vigener
 
 Give two reasons why the Navajo code talkers were so effective for secure communication in WWII and explain one strategy that they had to employ to avoid being "decoded".
 
-You are encouraged to use outside sources for answering this question, including Wikipedia's code talker page. 
+You are encouraged to use outside sources for answering this question, including Wikipedia's [code talker page](http://en.wikipedia.org/wiki/Code_talker). 
 
