@@ -37,7 +37,7 @@ Spring Break   | 3/15 | *****   | ***** | *****
    | 3/24 |    | DBM *7:194-209* | [HW4: Spelling correction]({{ site.baseurl }}/hw4_spelling_correction)
 10 | 3/29 |    | 
    | 3/31 | Grammars | DBM *2:49-65*
-11 | 4/5  |    | | HW5: Cryptography
+11 | 4/5  |    | | [HW5: Cryptography]({{ site.baseurl }}/hw5_cryptography)
    | 4/7  |    | 
 12 | 4/12 | Dialogue & Consciousness | DBM *6:153-177*
    | 4/14 |    | | HW6: Machine Translation
