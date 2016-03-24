@@ -33,7 +33,7 @@ Week	|  Date	| Topic	| Reading | Assignment
    | 3/10 |    | 
 Spring Break   | 3/15 | *****   | ***** | *****
    | 3/17 | *****   | ***** | *****
-9  | 3/22 | Machine Translation | DBM *7:181-194* | 
+9  | 3/22 | [Machine Translation]({{site.baseurl}}/public/slides/LNC-MachineTranslation.pdf) | DBM *7:181-194* | 
    | 3/24 |    | DBM *7:194-209* | [HW4: Spelling correction]({{ site.baseurl }}/hw4_spelling_correction)
 10 | 3/29 |    | 
    | 3/31 | Grammars | DBM *2:49-65*
