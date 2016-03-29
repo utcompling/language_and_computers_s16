@@ -36,7 +36,7 @@ Spring Break   | 3/15 | *****   | ***** | *****
 9  | 3/22 | [Machine Translation]({{site.baseurl}}/public/slides/LNC-MachineTranslation.pdf) | DBM *7:181-194* | 
    | 3/24 |    | DBM *7:194-209* | [HW4: Spelling correction]({{ site.baseurl }}/hw4_spelling_correction)
 10 | 3/29 |    | 
-   | 3/31 | Grammars | DBM *2:49-65*
+   | 3/31 | Grammars | DBM *2:49-65*, [Steedman & Baldridge](http://www.jasonbaldridge.com/papers/SteedmanBaldridgeNTSyntax.pdf), [Baldridge & Hoyt](http://www.jasonbaldridge.com/papers/baldridge_cg_handbook_syntax.pdf) | Note: Taking notes during lecture is particularly important for the grammar unit, in which we'll discuss categorial grammar. 
 11 | 4/5  |    | | [HW5: Cryptography]({{ site.baseurl }}/hw5_cryptography)
    | 4/7  |    | 
 12 | 4/12 | Dialogue & Consciousness | DBM *6:153-177*
