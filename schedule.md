@@ -39,12 +39,12 @@ Spring Break   | 3/15 | *****   | ***** | *****
    | 3/31 | Grammars | DBM *2:49-65*, [Steedman & Baldridge](http://www.jasonbaldridge.com/papers/SteedmanBaldridgeNTSyntax.pdf), [Baldridge & Hoyt](http://www.jasonbaldridge.com/papers/baldridge_cg_handbook_syntax.pdf) | Note: Taking notes during lecture is particularly important for the grammar unit, in which we'll discuss categorial grammar. 
 11 | 4/5  |    | | [HW5: Cryptography]({{ site.baseurl }}/hw5_cryptography)
    | 4/7  |    | 
-12 | 4/12 | Dialogue & Consciousness | DBM *6:153-177*
+12 | 4/12 | [Dialogue & Consciousness]({{site.baseurl}}/public/slides/LNC-Dialogue.pdf) (see also Markus Dickinson's [Dialogue slides]({{site.baseurl}}/public/slides/dickinson-dialogue.pdf) | DBM *6:153-177*
    | 4/14 |    | 
 13 | 4/19 |    | | [HW6: Machine Translation]({{ site.baseurl }}/hw6_machine_translation)
    | 4/21 |    | 
 14 | 4/26 | Impact of Language Technology | DBM *8:215-220*, [Emotional Contagion](https://www.peoplepattern.com/emotional-contagion-one/) | 
-   | 4/28 |    | [Machine learning & human bias](http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/)| HW7: Grammars and Dialogue
+   | 4/28 |    | [Machine learning & human bias](http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/)| [HW7: Grammars and Dialogue]({{ site.baseurl }}/hw7_grammar_and_dialogue)
 15 | 5/3  |    | [Considering ad-based revenue models](https://www.peoplepattern.com/considering-ad-based-revenue-models/) 
    | 5/5  | Final Exam Review | 
 Exam week |    | Final Exam: TBA  |   | Essay: Social context of language and computers (due 5/9, 9:30am)
