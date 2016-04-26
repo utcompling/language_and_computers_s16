@@ -54,16 +54,16 @@ The sentence "the man that I think that Mary saw walks" has a relative clause wi
 
 (a) [12 pts] Provide a derivation for the sentence (which must result in "s"). In addition to the lexicon from problem 2, you'll need to use *some* of the following lexical entries:
 
-	Mary := np
-	Mary := s/(s\np)
-	that := s/s
-	that := (n\n)/(s\np)
-	that := (n\n)/(s/np)
-	walks := s\np
-	walks := (s\np)/np
-	think := s\np
-	think := (s\np)/np
-  think := (s\np)/s
+    Mary := np
+    Mary := s/(s\np)
+    that := s/s
+    that := (n\n)/(s\np)
+    that := (n\n)/(s/np)
+    walks := s\np
+    walks := (s\np)/np
+    think := s\np
+    think := (s\np)/np
+    think := (s\np)/s
   
 You will need the composition rules (in addition to the application rules of the previous problem) for this derivation:
 
