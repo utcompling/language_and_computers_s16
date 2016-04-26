@@ -79,7 +79,7 @@ Using the bag of words alignment model, provide the probabilities for translatin
  1. *bumili*, *binili*, *libro*, and *titser* given *book*.
  1. *bumili*, *binili*, *libro*, and *titser* given *bought*.
  1. *ng*, *ang*, *na*, and *titser* given *a*
- 1. *ng*, *ang*, *na and *titser* given *the*
+ 1. *ng*, *ang*, *na* and *titser* given *the*
 
 
 (b) (15 points)
