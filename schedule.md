@@ -47,5 +47,5 @@ Spring Break   | 3/15 | *****   | ***** | *****
    | 4/28 |    | [Machine learning & human bias](http://techcrunch.com/2015/08/02/machine-learning-and-human-bias-an-uneasy-pair/)| [HW7: Grammars and Dialogue]({{ site.baseurl }}/hw7_grammar_and_dialogue)
 15 | 5/3  |    | [Considering ad-based revenue models](https://www.peoplepattern.com/considering-ad-based-revenue-models/) 
    | 5/5  | Final Exam Review | 
-Exam week |    | Final Exam: 5/13, 2-5pm CLA |   | [Essay: Social context of language and computers]({{ site.baseurl }}/course_essay) (due 5/9, 9:30am)
+Exam week |    | Final Exam: 5/13, 2-5pm CLA 1.106 |   | [Essay: Social context of language and computers]({{ site.baseurl }}/course_essay) (due 5/9, 9:30am)
  
